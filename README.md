@@ -15,35 +15,7 @@
 
 </div>
 
-## 👨‍💻 Who I Am
 
-```ts
-const sushant = {
-  title: "Java Developer | Computer Engineering Student",
-  stack: [
-    "Java",
-    "OOP",
-    "Collections",
-    "Exception Handling",
-    "JDBC",
-    "SQL",
-    "MySQL",
-    "Spring Boot",
-    "REST APIs",
-    "Maven",
-    "Git",
-    "GitHub",
-    "Postman",
-    "IntelliJ IDEA"
-  ],
-  launchedProjects: [
-    "JustLocal"
-  ],
-  certifications: [],
-  status: "Learning and building Java backend applications",
-  openTo: "Java Developer / Java Backend Developer opportunities"
-};
-```
 
 ## 🚀 Featured Projects
 
